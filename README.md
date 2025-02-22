@@ -1,5 +1,5 @@
 # RYK-BetterMusicPlayer-cpp
-![image](https://github.com/user-attachments/assets/4c4dc454-cfac-4cd4-9937-52c39c8911e4)
+![image](https://github.com/user-attachments/assets/883cc039-57e0-4bf3-8250-47a8da560feb)
 
 /* ======================================================================== */
 
