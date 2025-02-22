@@ -1,7 +1,7 @@
 # RYK-BetterMusicPlayer-cpp
 ![image](https://github.com/user-attachments/assets/4c4dc454-cfac-4cd4-9937-52c39c8911e4)
 
-/* ========================================================================= */
+/* ======================================================================== */
 
 /*	PROGRAM Better Music Player
 
@@ -41,4 +41,7 @@ menu choice selection.  The menu opening loop tests for correct choice of the
 numbers 1-4.
 
 */
+
+/* ======================================================================== */
+
 
